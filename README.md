@@ -1,3 +1,6 @@
+![Screenshot (40)](https://github.com/user-attachments/assets/6d124480-3f12-43db-bf14-39ddce902a49)
+![Screenshot (41)](https://github.com/user-attachments/assets/7e6bf379-af2d-4262-876c-b8a3c352e2a1)
+![Screenshot (42)](https://github.com/user-attachments/assets/29193b38-bd7d-4ed0-bc59-d5d94b3fdbc0)
 
 ---
 # Market Data Analysis (2019 - 2024)
@@ -64,5 +67,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Icons sourced from postimg.cc.
 
 ---
-![Screenshot (40)](https://github.com/user-attachments/assets/35959d73-dd0b-427b-b677-27d882118dc7)
+
 
