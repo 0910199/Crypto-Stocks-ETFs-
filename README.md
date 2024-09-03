@@ -2,6 +2,7 @@
 ![Screenshot (41)](https://github.com/user-attachments/assets/7e6bf379-af2d-4262-876c-b8a3c352e2a1)
 ![Screenshot (42)](https://github.com/user-attachments/assets/29193b38-bd7d-4ed0-bc59-d5d94b3fdbc0)
 
+
 ---
 # Market Data Analysis (2019 - 2024)
 
